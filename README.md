@@ -14,6 +14,6 @@ Projeto construido no evento Next Level Week da Rocketseat!
 
 ## Contato 
 
-e-mail - johnnathan.edf@gmail.com
+e-mail - jhoosnow27@gmail.com
 
 Whatsapp - (88)9 9905-6486

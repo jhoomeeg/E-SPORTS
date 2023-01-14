@@ -10,7 +10,7 @@ Projeto construido no evento Next Level Week da Rocketseat!
 -  CSS
 -  GIT E GITHUB
 
-[clique aqui para acessar](https://jhoosnow.github.io/NLW---Esports---Trilha-Explorer/)
+[clique aqui para acessar](https://jhoomeeg.github.io/E-SPORTS/)
 
 ## Contato 
 
